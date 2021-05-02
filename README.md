@@ -15,3 +15,7 @@ Concept graphs:
 - Self-Organizing Maps:
 
 ![](https://wonikjang.github.io/result_images/som_resized.png)
+
+- Bayesian Self-Organizing Map Neural Networks:
+
+![](https://www.overleaf.com/project/6053b4f2783d1d9d2d9218ad/file/6053f4f7783d1d4e79929bba)
