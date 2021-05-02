@@ -4,6 +4,6 @@ Use Deep Learning Methods to analyze gene based microarray data to make classifc
 \
 \
 Methodologies:
-- multilayer proceptron framework
+- multilayer perceptron framework
 - Bayesian Statistics in uncertainty 
 - Self-Organizing Mapping in dimensionality reduction
