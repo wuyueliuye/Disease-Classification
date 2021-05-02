@@ -18,4 +18,4 @@ Concept graphs:
 
 - Bayesian Self-Organizing Map Neural Networks:
 
-![](https://www.overleaf.com/project/6053b4f2783d1d9d2d9218ad/file/6053f4f7783d1d4e79929bba)
+![](https://github.com/wuyueliuye/Disease-Identification/blob/main/fig_3.PNG)
